@@ -3,10 +3,7 @@ This line was originally added in Eriks personal fork of the master openEHR sand
 
 master
 1 develop
-fix develop
-4add new d
-6release
-new develop
-fix release
-5 add new f
-i am new drone
+2ix develop
+3add new d
+4release
+5ix release
